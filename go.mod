@@ -1,4 +1,4 @@
-module github.com/sbezverk/tools
+module github.com/sebasttiano/tools
 
 go 1.19
 
